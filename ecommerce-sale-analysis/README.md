@@ -103,11 +103,3 @@ Sakshi Patwekar
 
 This project was created as part of my SQL and Git/GitHub learning journey.
 
-
-### After pasting
-Press:
-
-**Control + O** → **Enter** → **Control + X**
-
-Then tell me **Done**. We'll do the next Git step
-
